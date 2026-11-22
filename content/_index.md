@@ -25,7 +25,7 @@ Der gleichnamige Verein Pfadizentrum Drei Gleichen e.V. ist Träger der Einricht
 {{< titel zentriert="true" kicker="Bei uns zu Hause" >}}Folgende Gruppen und Organisationen finden sich vor Ort:{{< /titel >}}
 
 {{< logos >}}
-{{< logo src="2024/04/pzdg-logo-1024x1021.gif" url="/verein/" >}}Pfadizentrum Drei Gleichen e.V.{{< /logo >}}
+{{< logo src="2024/04/pzdg-logo-1024x1021.png" url="/verein/" >}}Pfadizentrum Drei Gleichen e.V.{{< /logo >}}
 {{< logo src="2024/04/VCP-Zeichen-VCP-Blau-e1714523961224.png" url="https://www.vcp-sdg.de" >}}**Verband Christlicher Pfadfinder\*innen e.V.
 Stamm Drei Gleichen**{{< /logo >}}
 {{< logo src="2024/04/VCP-Zeichen-VCP-Blau-e1714523961224.png" url="https://www.vcp-mitteldeutschland.de" >}}**Verband Christlicher Pfadfinder\*innen e.V.
