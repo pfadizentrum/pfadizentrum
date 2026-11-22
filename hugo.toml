@@ -54,7 +54,7 @@ disableKinds = ['taxonomy', 'term']
   allowContent = ['^text/html$', '^text/markdown$', '^text/x-org$', '^text/asciidoc$', '^text/plain$']
 
 [params]
-  description = "Pfadfinderzentrum Drei Gleichen - Zeltplatz und Freizeitheim in der Mitte Thüringens"
+  description = "Pfadizentrum Drei Gleichen"
   titleBarBg = "/wp-content/uploads/2025/04/pfadizentrum.jpg"
 
   [params.apolloParams]
@@ -136,9 +136,9 @@ disableKinds = ['taxonomy', 'term']
 
   [[params.footerWidgets]]
     id = "13"
-    html = '''<p><strong>Pfadfinderzentrum Drei Gleichen e.V.</strong><br/>Drei-Gleichen-Straße 46<br/>99192 Nesse-Apfelstädt<br/>Tel.: +49 (176) 17611091976<br/>Mail: info@pfadizentrum.de<br/>Internet: www.pfadizentrum.de</p>'''
+    html = '''<p><strong>Pfadizentrum Drei Gleichen e.V.</strong><br/>Drei-Gleichen-Straße 46<br/>99192 Nesse-Apfelstädt<br/>Tel.: +49 (176) 17611091976<br/>Mail: info@pfadizentrum.de<br/>Internet: www.pfadizentrum.de</p>'''
 
   [[params.footerWidgets]]
     id = "14"
-    html = '''<p><strong>Bankverbindung:</strong><br/>Pfadfinderzentrum Drei Gleichen e.V.<br/>Kreissparkasse Gotha<br/>IBAN: DE16820520200770000274<br/>BIC-/SWIFT-Code: HELADEF1GTH</p>'''
+    html = '''<p><strong>Bankverbindung:</strong><br/>Pfadizentrum Drei Gleichen e.V.<br/>Kreissparkasse Gotha<br/>IBAN: DE16820520200770000274<br/>BIC-/SWIFT-Code: HELADEF1GTH</p>'''
 
